@@ -57,3 +57,7 @@ void loop() {
         Serial.println(totalInterruptCounter);
     }
 }
+
+
+![image](https://github.com/user-attachments/assets/1beee2c5-c199-416c-9f91-df5b90452a3a)
+
